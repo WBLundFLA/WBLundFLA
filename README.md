@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WBLundFLA
 - 👀 I’m interested in Integrating Java with .net 
-- 🌱 I’m currently learning Java and Git
-- 💞️ I’m looking to collaborate on any bridging between desktop .net and Browser based Java applications
+- 🌱 I’m currently using Claude and Cursor with python, node.js and react
+- 💞️ 
 - 📫 How to reach me via GitHub
 
 <!---
