@@ -1,0 +1,11 @@
+{
+  "name": "Profile README preview",
+  "install": "bash .cursor/install.sh",
+  "terminals": [
+    {
+      "name": "readme-preview",
+      "command": "\"$HOME/.venv-tools/bin/grip\" . 0.0.0.0:6419"
+    }
+  ],
+  "ports": [6419]
+}
