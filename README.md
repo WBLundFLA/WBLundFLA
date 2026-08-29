@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WBLundFLA
-- 👀 I’m interested in Integrating Java with .net 
+- 👀 I’m building out Wabble, a company to help build software from AI using structure and guardrails consistently
 - 🌱 I’m currently using Claude and Cursor with python, node.js and react
 - 💞️ 
 - 📫 How to reach me via GitHub
