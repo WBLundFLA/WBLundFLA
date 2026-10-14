@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @WBLundFLA
 - 👀 I’m building out Wabble, a company to help build software from AI using structure and guardrails consistently
-- 🌱 I’m currently using Claude and Cursor with python, node.js and react
+- 🌱 I’m currently using Claude, Cursor, Codex, Deepseek, Kimi, Grok with python, node.js and react all managed through private GitHub repos.
 - 💞️ 
-- 📫 How to reach me via GitHub
+- 📫 wblund@wabblellc.com
 
 <!---
 WBLundFLA/WBLundFLA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
